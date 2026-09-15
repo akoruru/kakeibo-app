@@ -1,0 +1,13 @@
+{
+  "name":"家計簿",
+  "short_name":"家計簿",
+  "description":"入力・集計・分析ができる家計簿",
+  "lang":"ja",
+  "id":"./",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f7fa",
+  "theme_color":"#173f63",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
